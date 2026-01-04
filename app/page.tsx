@@ -1,3 +1,5 @@
+"use client";
+
 import Hero from "@/components/hero";
 import Services from "@/components/services";
 import WhyChooseUs from "@/components/why-choose-us";
@@ -23,4 +25,3 @@ export default function Home() {
     </main>
   );
 }
-
